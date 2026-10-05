@@ -1,6 +1,6 @@
-# Code-Illuminator
+# AI Powered Code Learning Tool
 
-**Code Illuminator** is a Python-based web application built with Streamlit that allows users to **write**, **analyze**, **execute**, and **explain** Python code — all in a secure and interactive environment.
+**AI Powered Code Learning Tool** is a Python-based web application built with Streamlit that allows users to **write**, **analyze**, **execute**, and **explain** Python code — all in a secure and interactive environment.
 
 ---
 
