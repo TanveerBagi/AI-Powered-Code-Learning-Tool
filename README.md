@@ -4,17 +4,17 @@
 
 ---
 
-## ✨ Features
+## Features
 
-- ✅ **Code Execution** using `RestrictedPython` for safe and controlled environment.
-- 📈 **Static Analysis** with `Flake8` to catch common code issues with readable explanations.
-- 🤖 **AI-Powered Explanation** using the `DeepSeek` model via OpenRouter API.
-- 💬 **Streamed AI Response** for real-time explanation feedback.
-- 🧼 Clean UI and readable output for beginners and developers alike.
+-  **Code Execution** using `RestrictedPython` for safe and controlled environment.
+-  **Static Analysis** with `Flake8` to catch common code issues with readable explanations.
+-  **AI-Powered Explanation** using the `DeepSeek` model via OpenRouter API.
+-  **Streamed AI Response** for real-time explanation feedback.
+-  Clean UI and readable output for beginners and developers alike.
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - `Python`
 - `Streamlit`
@@ -24,12 +24,12 @@
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 1. **Clone the Repository**
    
-   git clone https://github.com/TanveerBagi/Code-Illuminator.git
-   cd Code-Illuminator
+   git clone https://github.com/TanveerBagi/AI-Powered-Code-Learning-Tool.git
+   cd AI-Powered-Code-Learning-Tool
 
 2. **Install Dependencies**
    
